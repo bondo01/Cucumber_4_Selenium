@@ -1,0 +1,13 @@
+neded files referenced on website: https://www.guru99.com/using-cucumber-selenium.html
+Seleniun Server			https://www.seleniumhq.org/download/
+Cucumber-core			https://mvnrepository.com/artifact/io.cucumber/cucumber-core
+Cucumber-html			https://mvnrepository.com/artifact/io.cucumber/cucumber-html
+cobertura code coverage	https://mvnrepository.com/artifact/net.sourceforge.cobertura/cobertura
+Cucumber-java			https://mvnrepository.com/artifact/io.cucumber/cucumber-java
+Cucumber-junit			https://mvnrepository.com/artifact/io.cucumber/cucumber-junit
+Cucumber-jvm-deps		https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm-deps
+Cucumber-reporting		https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting
+Hemcrest-core			https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core
+Gherkin					https://mvnrepository.com/artifact/io.cucumber/gherkin
+Junit					https://mvnrepository.com/artifact/junit/junit
+
